@@ -18,4 +18,4 @@ const usuarios = [
         senha: "edu2026"
     }
 ];
-
+export { usuarios };

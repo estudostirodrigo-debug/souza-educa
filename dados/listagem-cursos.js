@@ -1,4 +1,4 @@
-const cursos = [
+const curso = [
     {
         id: 1,
         nomeCurso: "Desenvolvimento Web",
@@ -56,4 +56,4 @@ const cursos = [
         dataFim: "2026-10-23"
     }
 ];
-
+export { curso };

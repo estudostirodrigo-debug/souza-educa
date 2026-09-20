@@ -1,4 +1,4 @@
-const alunos = [
+const aluno = [
     {
         id: 1,
         nome: "Lucas Henrique Martins",
@@ -32,4 +32,4 @@ const alunos = [
         bairro: "Centro"
     }
 ];
-
+export {aluno};
