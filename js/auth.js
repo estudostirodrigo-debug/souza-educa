@@ -1,4 +1,4 @@
-import { usuarios } from "./dados/listagem-usuario.js";
+import { usuarios } from "../dados/listagem-usuario.js";
 
 function login(usuario, senha) {
   
