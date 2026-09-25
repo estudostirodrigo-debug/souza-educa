@@ -4,8 +4,6 @@ criarToolbar();
 
 console.log("dashboard js carregou!");
 
-console.log("dashboard.js carregou!");
-
 const usuarioLogado = JSON.parse(sessionStorage.getItem("usuarioLogado"));
 
 console.log(usuarioLogado);
